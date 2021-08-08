@@ -1,0 +1,4 @@
+colorama==0.4.4
+PyInquirer==1.0.3
+termcolor==1.1.0
+
